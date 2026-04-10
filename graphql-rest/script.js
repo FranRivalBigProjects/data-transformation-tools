@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Converted endpoints: '+input.value.split('\n').length;}

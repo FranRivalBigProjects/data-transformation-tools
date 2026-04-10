@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){try{res.innerText=JSON.stringify(JSON.parse(json.value),null,2);}catch(e){res.innerText='Invalid JSON';}}
